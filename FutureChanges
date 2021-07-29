@@ -1,0 +1,9 @@
+_2UsernameParser.py
+collect_media_total()
+    Change the results.append to a dictionary append method as it will be quicker. I did not change this as it was near
+    the end of the project and I wanted to avoid causing a lasting error so close to the deadline.
+calculate_sat() / calculate_hue()
+    Specify the type error I am trying to except
+age_of_image()
+    Change the variable name 'date'. It did not cause me any problems but given it's common internal use by Python I think
+    it may do in future and would be good practice to change it.

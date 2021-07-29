@@ -1,0 +1,6 @@
+/venv/
+*.h5
+*.zip
+/Train/*
+/Test/*
+/Validation/*
