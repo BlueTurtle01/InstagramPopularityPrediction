@@ -68,3 +68,6 @@ This was originally coded on MacOS, and then finished on Windows. It was at this
 two operating systems causes problems in the regex in <code>CNN.py</code>. It is now coded for the Windows system. To run on MacOS change the line:
 <code>names = [re.sub(r'^\d+\.\d+[\\\\]', '', file) for file in ds_test.filenames]</code> to 
 <code>names = [re.sub(r'^\d+\.\d+[/]', '', file) for file in ds_test.filenames]</code>
+
+# What I learnt from this repo:
+1. I improved my knowledge of model explainability by analysing the feature importance for the classifier models and then discussed this in the final paper.
